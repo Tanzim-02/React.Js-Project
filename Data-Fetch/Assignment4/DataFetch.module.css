@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    margin: 10px;
+    background-color: rgb(3, 131, 160);
+    flex-wrap: wrap;
+    /* flex-shrink: 1; */
+    flex-grow: 1;
+}
+
+.card {
+    margin: 4px;
+    background: rgb(255, 203, 203);
+    color: rgb(14, 1, 1);
+}
+
+
+.blue{
+    background-color: antiquewhite;
+    height: 100vh;
+}
